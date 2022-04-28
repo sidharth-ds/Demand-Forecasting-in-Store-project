@@ -13,7 +13,7 @@
 ### Modelling:
 * using XGBoost
 * Hyper-parameter tuning :
-    * learning rate (as the learning rate (eta) gets lower,it takes many more steps (rounds) to get to the optimum)
+    * learning rate (as the learning rate (eta) gets lower,it takes many more steps (rounds) to get to the optimum).
     * number of trees (n_estimators)
     
 ### Evaluation metrics:
